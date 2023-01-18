@@ -1,0 +1,248 @@
+vpc    VPC - Regions
+=========
+subnets  - AZ 
+nat gateways
+RT
+VPC Peering - 2 diff regions
+VPC Endpoints - 2 diff AZ with same regions
+
+Dev Env
+============
+
+pre-prod
+
+
+production
+===========
+
+ansible
+===========
+2 servers
+
+10 servers are working
+====================
+1. master
+9. slave machine
+
+2 servers
+===================
+1. acm  - ansible client machine (master)
+2. ansible host (slave)
+
+1, acm/master
+--------------
+4 steps
+1.  vim /etc/ssh/sshd_config
+2.  passwd ec2-user - admin123
+
+
+2. slave
+==============
+4 steps
+
+1. ACM/Master
+===============
+ansible
+
+
+ansible is working modules
+462 + modules
+windows OS, Linux OS
+
+OS
+=========
+1. Windows
+2. linux(centos, ubuntu, susulinux, )
+
+git
+maven - build
+jenkins - plugins
+docker - port
+k8s - pods - ip address
+ansible - modules
+
+cloud
+=========
+aws services
+
+terraform
+==============
+resource
+ec2
+ebs
+sns
+modules
+=======
+a group of 
+VPC - VPC, SB,NT,IGW,RT,VPC P, 
+
+
+acm
+========
+4 steps
+
+ansible
+========
+4 steps
+
+acm
+======
+ansible
+
+ansible-host
+===============
+ansible installation
+
+1 acm
+9 servers
+ 2 servers
+1. acm
+2. ansible host
+1. acm
+===========
+ansible host
+
+
+acm & ansible host
+========================
+ip address
+inventory
+
+
+acm
+========
+ssh-keygen
+
+
+10 servers
+=============
+4 - webservers - ansiblehost private ip,
+3 - applications servers - 
+3 - db servers
+
+acm
+======
+
+vim /etc/ansible/host
+
+
+Module
+=============
+2 ways
+1. single line command
+2. playbooks
+
+ping module
+
+
+
+Ansible is working with modules
+================================
+1. ad-hoc commnads - sinle line command
+
+
+tomcat applications
+ssh & sshd connection - task-1
+install tomcat - task -2
+service - task -3
+
+
+playbook  - yaml
+=============
+
+
+vim playbook1.yml
+
+ssh & sshd connection - task-1
+install tomcat - task -2
+service - task -3
+
+multiple paybooks
+=================
+
+
+ansible role
+=====================
+
+multiple ansible roles - ansible-galaxy
+
+
+vaults & secrets
+
+
+
+vim playbook1.yml
+
+---
+- 
+
+
+install tomcat
+start the server
+
+sample war file
+
+restart the server
+
+yum install tomcat
+
+
+
+https://tomcat.apache.org/tomcat-9.0-doc/appdev/sample/sample.war
+
+
+
+synatx check
+=============
+2 ways
+1. ansible-playbook playbook1.yml --syntax-check
+
+2 ways
+browser
+yaml lint
+
+sudo systemctl status tomcat7.service
+
+/usr/lib/jvm/java-11-openjdk-11.0.16.0.8-1.amzn2.0.1.x86_64
+
+
+1. step
+
+deploy container
+==========
+manage jenkins--> mange plugins --> installed - tomcat
+
+2 step
+job 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
