@@ -1,0 +1,143 @@
+devops tools
+cloud tools
+both the tools
+
+you can join
+=================
+they will assign tasks/ticket
+mahesh - 8 hrs
+harika- 8 hrs
+
+Jira Dash Board
+===============
+
+kanban board
+
+IBM CLM
+
+agile methode
+
+2.sprints 
+=========
+15 days - 11 days 11*8 = 88hrs
+30 days - 
+
+5 days - 22 days - 17 days task 
+
+Setup a slave configuration in jenkins
+=========================================
+1- day - user story points - 2 day - Scrum master, Architect, Product owners, lead, PM
+shobha - K8S - Blue / Green deployment - 8 d
+ dev - env - production - new, - progress - ready to approval - done stage
+
+3 imp
+==============
+i have to update here
+2. what i want to do
+3. are thereimpedimentss - dependencies - 
+
+4. Scrum calls / Daily standup call (DSC)/ Daily Meetings, Daily Scrum Calls 
+joining the meeting
+10AM - 
+
+3 task - 1 started - 
+   2. task
+blue/green - 
+
+i should prepare a documents 
+==============================
+having architecture - draw.io
+i have documentation - wiki/confluence
+sprint -1 done
+
+
+Resume part
+=============
+devops, aws, k8s, docker, terraform
+cicd- 3 yrs
+git - 8
+k8s - 2
+notice period
+===============
+0-15 days
+4 yrs - document - reputed consultancy
+CGI, Cognizant -xyz consultancy
+
+subject - 
+
+Total - 4 yrs
+relavent - 4 yrs
+C CTC -6 Lacs
+E CTC - 11-12 Lacs
+NP - Immediate - 90 days, 60 days, 30 days
+
+thanks
+========
+
+7. Interview:
+==================
+dinesh -
+
+Telecome
+=============
+deployment strategies 
+aws env
+we use to take latest code form github
+docker deployment
+micro-service of docker deployment
+
+Project roles & responsibilities
+-----------------------------------
+
+mail id 
+mobile -
+naukri - delete 
+
+new mail id
+new resume
+pan card - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==================
+
+5.sprint podium
+=============
+K8S blue-green deployment - 5-10 minutes
+
+architect, PM, PM, PO, Leads, Scrum
+======================================
+ 
+6. Sprint Review
+==================
+good and improvements
+dockerfile
+you need push image 
+
+
+
+
+
+
+
